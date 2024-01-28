@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+config_internal.py
+
 config_local.py
 
 # C extensions
@@ -175,3 +177,6 @@ geckodriver.log
 # premium files
 angelco.py
 globalLogicCode.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
